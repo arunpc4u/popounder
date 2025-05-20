@@ -1,7 +1,13 @@
 /**
- * Smart Popunder v2 By arunpc4u
+ * Smart Popunder v2 Modified/Improved By arunpc4u
  * This class provides an easy way to make a popunder.
  * Avoid blocked on Google Chrome
+ *  
+ * Known Problems?
+ * =x= No Problem Detected
+ * 
+ * What we can Improve?
+ * === we can improve it by loading this popup like main website tab should be active and focused! [THIS FEATURE NOT ADDED+]
  *
  **/
 
