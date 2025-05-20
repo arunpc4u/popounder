@@ -65,6 +65,9 @@ var popunderOptions = {
 
 // Activate popunder with custom settings
 SmartPopunder.make(popunderURL, popunderOptions);
+
+// Or you can go with the Default Config values mentioned below!
+SmartPopunder.make(popunderURL);
 ```
 
 ## 📌 Configuration Options
